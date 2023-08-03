@@ -1,0 +1,49 @@
+.top{
+    background-color: white;
+}
+
+
+
+
+
+.headw{
+    background: rgb(21, 163, 156);
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    height: 40px;
+    text-size-adjust: 50px;
+    color: aliceblue;
+}
+
+.headw a{
+    padding: 10px;           /* space between top bottom right left */
+    border-radius: 10px;    /* click garda kasto round aauna ko lae*/
+    margin: 9px;            /* decide space between word */
+    text-align: center;
+    text-transform: uppercase;   /* transform letter in uppercase*/
+    font-size: 0.8em;           /* font size or text -size*/
+    color: aliceblue;
+}
+.headw a:hover{                     /*mouse lauda ko reaction */
+    
+    color: rgba(176, 30, 30, 0.742);
+    transition: all ease-in 3s;
+}
+
+a{
+    text-decoration: #a15845;
+    text-justify: distribute-all-lines;
+}
+
+
+h1{
+
+	padding: 10px;
+	background-color: rgb(172, 162, 164);
+	color: rgb(0, 0, 0);
+	text-align: center;
+    margin: 10px auto;
+}
